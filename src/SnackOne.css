@@ -1,0 +1,30 @@
+.SnackOne-img {
+    margin-top: 100px;
+}
+
+.SnackOne-description-I {
+    font-size: 2rem;
+}
+
+.SnackOne-description-II {
+    font-size: 1.5rem;
+}
+
+.SnackOne-num {
+    display: flex;
+    justify-content: center;
+}
+
+.SnackOne-num button, div {
+    margin: 5px;
+}
+
+.SnackOne-num button {
+    border-style: none;
+    background-color: white;
+}
+
+.SnackOne a {
+    color: black;
+    text-decoration: underline;
+}

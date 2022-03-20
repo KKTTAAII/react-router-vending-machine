@@ -1,0 +1,30 @@
+.SnackTwo-description-I {
+    font-size: 2rem;
+}
+
+.SnackTwo-description-II {
+    font-size: 1.5rem;
+}
+
+.SnackTwo-img {
+    width: 30vw;
+}
+
+.SnackTwo-num {
+    display: flex;
+    justify-content: center;
+}
+
+.SnackTwo-num button, div {
+    margin: 5px;
+}
+
+.SnackTwo-num button {
+    border-style: none;
+    background-color: white;
+}
+
+.SnackTwo a {
+    color: black;
+    text-decoration: underline;
+}

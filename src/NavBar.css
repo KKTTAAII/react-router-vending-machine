@@ -1,0 +1,14 @@
+.NavBar {
+    background-color: #4831D4;
+    height: 3rem;
+}
+
+.NavBar a {
+    color: antiquewhite;
+    margin: .7rem;
+    display: inline-block;
+}
+
+.NavBar a.active {
+    color: #F96167;
+}

@@ -1,0 +1,15 @@
+.SnackThree-description-I {
+    margin-top: 2rem;
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+.SnackThree-description-II {
+    margin-top: 2rem;
+    font-size: 1.5rem;
+}
+
+.SnackThree a {
+    color: black;
+    text-decoration: underline;
+}
